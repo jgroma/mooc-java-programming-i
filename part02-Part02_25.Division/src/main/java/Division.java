@@ -12,4 +12,7 @@ public class Division {
     }
 
     // implement the method here
+    public static void division(int first, int second) {
+        System.out.println((first/(double) second));
+    }
 }
